@@ -24,7 +24,7 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 
 ## 疾风云机场测速
 
-<img width="4069" height="5570" alt="JFCloud-SpeedTest-GXYD-20250905t" src="https://github.com/user-attachments/assets/86e997bc-0637-435c-9758-6832cca1df96" />
+<img width="4069" height="5570" alt="JFCloud-SpeedTest-GXYD-20250905t" src="https://github.com/user-attachments/assets/aee37647-114e-40f5-8f5b-83657da02b85" />
 
 
 ## 疾风云出入口分析
